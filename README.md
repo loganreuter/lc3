@@ -5,7 +5,7 @@ The machine is designed to understand LC3 assembly code
 
 The goal of this project is to learn about the process of   
 implementing a virtual machine. I will then try to expand  
-it to implement other opcodes and run using the Harvard
+it to implement other opcodes and run using the Harvard  
 architecture. My ultimate goal is to build a virtual machine   
 capable of interpretting my own custom programming language.
 
