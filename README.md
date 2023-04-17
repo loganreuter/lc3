@@ -10,5 +10,5 @@ architecture. My ultimate goal is to build a virtual machine
 capable of interpretting my own custom programming language.
 
 The code for this project was acquired from these two articles:  
-https://www.andreinc.net/2021/12/01/writing-a-simple-vm-in-less-than-125-lines-of-c
+https://www.andreinc.net/2021/12/01/writing-a-simple-vm-in-less-than-125-lines-of-c  
 https://www.jmeiners.com/lc3-vm/
